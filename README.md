@@ -2,6 +2,8 @@
 
 A simple, static recreation of the Firefox homepage built with vanilla HTML and CSS. This project is for practicing layout techniques, spacing, typography, and component styling — no JavaScript or frameworks required.
 
+### [Demo](https://ansari-in.github.io/firefox-clone-css-practice/)
+
 ## What’s Inside
 - **Static clone:** Focused on structure and styling of a modern landing page.
 - **Clean HTML/CSS:** Semantic HTML5 and organized CSS for maintainability.
